@@ -1,6 +1,6 @@
 ---
 layout: post
-title:second blog
+title: second blog
 date: 2018-09-28
 ---
 
