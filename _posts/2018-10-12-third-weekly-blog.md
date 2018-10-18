@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Julissa vaquero, week three".
+title: Julissa vaquero, week three
 date: 2018-10-12
 ---
 
