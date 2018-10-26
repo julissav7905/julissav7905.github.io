@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Julissa vaquero
-date: 2018-9-21
+title: "Julissa vaquero"
+date: 2018-09-21
 ---
 
 1:I like this school so far, the teachers are great very kind and understanding, the students are good I Don't have probelms with anyone, I met a lot of amazing people.
