@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Julissa vaquero, week seven
+title: Julissa vaquero, 
 date: 2018-11-2
 ---
