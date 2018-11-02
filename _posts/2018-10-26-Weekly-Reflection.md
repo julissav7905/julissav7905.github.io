@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Julissa Vaquero
+title: Julissa Vaquero, week six
 date: 2018-10-26
 ---
 
