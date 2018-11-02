@@ -1,6 +1,6 @@
 ---
 layout: post
-title: second blog
+title: Julissa vaquero , week two
 date: 2018-09-28
 ---
 
