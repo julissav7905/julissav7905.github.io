@@ -8,10 +8,9 @@ date: 2018-12-21
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
+-   What country did you design for? The country I designed for is Ireland.  
+-   What grade do you expect? Maybe a 3.
 
-<!--- Delete this comment and add your writing -->
 
 ## Current output
 
